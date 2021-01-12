@@ -57,7 +57,8 @@
 	/* HERO
 	================================================== */
 	.hero h1 {
-		font-size: 38px
+		font-size: 38px;
+		color:red;
 	}
 
 	.job-title {
