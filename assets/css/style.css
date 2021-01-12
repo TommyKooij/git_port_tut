@@ -275,6 +275,7 @@ html, body {
     font-size: 36px;
     margin: 0;
     text-transform: uppercase;
+    color: red;
 }
 
 .img-lines {

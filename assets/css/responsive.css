@@ -83,7 +83,8 @@
 
 	.site-section h2,
 	.site-section h3 {
-		font-size: 32px
+		font-size: 32px;
+		color: red;
 	}
 
 	/* Section: Skills */
@@ -331,7 +332,8 @@
 
 	.site-section h2,
 	.site-section h3 {
-	    font-size: 28px;
+		font-size: 28px;
+		color: red;
 	}
 
 	.img-lines {
